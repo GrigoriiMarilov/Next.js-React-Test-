@@ -58,7 +58,7 @@ body{
 .operator__card:hover{
 	width: 320px;
 	height: 190px;
-	transform: translate(10px, 5px);
+	transform: translate(0px, 5px);
 }
 .link{
 	text-decoration: none;
